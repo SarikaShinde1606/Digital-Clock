@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+/* Style for heading */
+.heading{
+    color: whitesmoke;
+    font-size: 80px;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+/* Style for container */
+.container{
+    color: white;
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border: 10px solid red;
+   border-radius: 10px;
+   padding: 10px;
+}
+
